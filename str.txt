@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<p>Hello Word!My name Juliya</p>
+<p>Hello Word!My name is Juliya</p>
 </body>
 </html>
